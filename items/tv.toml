@@ -1,0 +1,108 @@
+# Items of kind `tv` go here, one [[items]] table each.
+# Required keys per item: `id` and `title`. Optional: `year`,
+# `external_ids`, `metadata`. The `kind` is implied by the
+# filename and must not appear inside [[items]].
+#
+# [[items]]
+# id = "tt0068646"        # any globally-unique id (IMDB, MusicBrainz, ...)
+# title = "The Godfather"
+# year = 1972             # optional
+
+[[items]]
+title = "Battlestar Galactica"
+
+[[items]]
+title = "Blue-Eye Samurai"
+
+[[items]]
+title = "Chernobyl"
+
+[[items]]
+title = "Come Dine With Me"
+
+[[items]]
+title = "Curb Your Enthusiasm"
+
+[[items]]
+title = "Da Ali G Show"
+
+[[items]]
+title = "Dark"
+
+[[items]]
+title = "Dirk Gently's Holistic Detective Agency"
+
+[[items]]
+title = "Dollhouse"
+
+[[items]]
+title = "Easy"
+
+[[items]]
+title = "Firefly"
+
+[[items]]
+title = "Freaks & Geeks"
+
+[[items]]
+title = "Full Metal Alchemist"
+
+[[items]]
+title = "Futurama"
+
+[[items]]
+title = "House"
+
+[[items]]
+title = "I Love Lucy"
+
+[[items]]
+title = "Knight Scoop"
+
+[[items]]
+title = "Last Week Tonight"
+
+[[items]]
+title = "Lois & Clark: The New Adventures of Superman"
+
+[[items]]
+title = "Love, Death & Robots"
+
+[[items]]
+title = "Lovesick"
+
+[[items]]
+title = "Pushing Daisies"
+
+[[items]]
+title = "Rick & Morty"
+
+[[items]]
+title = "Seinfeld"
+
+[[items]]
+title = "Sherlock"
+
+[[items]]
+title = "Slow Horses"
+
+[[items]]
+title = "South Park"
+
+[[items]]
+title = "Terrace House"
+
+[[items]]
+title = "The Lost Room"
+
+[[items]]
+title = "The Office"
+
+[[items]]
+title = "The Simpsons"
+
+[[items]]
+title = "Whose Line is it Anyway?"
+
+[[items]]
+title = "Would I Lie to You?"

@@ -1,0 +1,9 @@
+# Items of kind `podcast` go here, one [[items]] table each.
+# Required keys per item: `id` and `title`. Optional: `year`,
+# `external_ids`, `metadata`. The `kind` is implied by the
+# filename and must not appear inside [[items]].
+#
+# [[items]]
+# id = "tt0068646"        # any globally-unique id (IMDB, MusicBrainz, ...)
+# title = "The Godfather"
+# year = 1972             # optional

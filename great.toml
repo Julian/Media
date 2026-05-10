@@ -1,0 +1,10 @@
+lists = [
+    { name = "movies", kind = "movie" },
+    { name = "tv", kind = "tv" },
+    { name = "artists", kind = "artist" },
+    { name = "albums", kind = "album" },
+    { name = "songs", kind = "song" },
+    { name = "books", kind = "book" },
+    { name = "podcasts", kind = "podcast" },
+    { name = "games", kind = "game" },
+]
