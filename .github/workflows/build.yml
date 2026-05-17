@@ -25,7 +25,7 @@ jobs:
         with:
           enable-cache: false
       # TODO: drop once `great`'s May 11 release is past the 7-day cooldown.
-      - run: uv tool install --exclude-newer-package great=2026-05-12 great
+      - run: uv tool install --exclude-newer-package great=false 'great>=2026.5.12'
       - run: great build
       - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa  # v3
         with:
