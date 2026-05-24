@@ -8,3 +8,6 @@ lists = [
     { name = "podcasts", kind = "podcast" },
     { name = "games", kind = "game" },
 ]
+
+[sources.albumsgenerator]
+username = "julianwastaken"
