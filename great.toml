@@ -6,6 +6,7 @@ lists = [
     { name = "songs", kind = "song" },
     { name = "books", kind = "book" },
     { name = "podcasts", kind = "podcast" },
+    { name = "podcast_episodes", kind = "podcast_episode" },
     { name = "games", kind = "game" },
 ]
 
